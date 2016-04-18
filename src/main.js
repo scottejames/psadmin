@@ -1,5 +1,5 @@
-$ = jQuery  = Require('jquery')
+$ = jQuery = require('jquery');
 
-var App = console.log("Hello World from me!")
+var App = console.log("Hello World from me!");
 
-module.export  = App
+module.export = App;
